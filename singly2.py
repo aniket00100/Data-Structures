@@ -38,10 +38,6 @@ o = singlylist()
 
 o.append(1)
 o.append(2)
-o.append(3)
-o.append(4)
-o.append(5)
-o.append(6)
 
 o.display()
 
